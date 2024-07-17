@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Proyecto_Juegos\\ProyectoNave\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|D:\\Proyecto_Juegos\\ProyectoNave\\assets\\scripts\\movimientoasteroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movimientoasteroide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|D:\\Proyecto_Juegos\\ProyectoNave\\assets\\scripts\\movelaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\movelaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|d:\\proyecto_juegos\\proyectonave\\assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|D:\\Proyecto_Juegos\\ProyectoNave\\assets\\scripts\\eliminarportiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eliminarportiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|D:\\Proyecto_Juegos\\ProyectoNave\\assets\\scripts\\colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\colision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|D:\\Proyecto_Juegos\\ProyectoNave\\assets\\scripts\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\nave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|D:\\Proyecto_Juegos\\ProyectoNave\\assets\\scripts\\eliminadelarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8FD9940E-353E-1C83-FE65-9A04074448D1}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\eliminadelarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\DestruirporTiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DestruirporTiempo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\Jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameController.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\GameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAQwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T05:01:09.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Colision.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\Colision.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Colision.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\Colision.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Colision.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:36:47.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoAsteroide.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\MovimientoAsteroide.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MovimientoAsteroide.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\MovimientoAsteroide.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MovimientoAsteroide.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:26:00.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EliminadelArea.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\EliminadelArea.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EliminadelArea.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\EliminadelArea.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EliminadelArea.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T03:05:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoveLaser.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\MoveLaser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MoveLaser.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\MoveLaser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MoveLaser.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAiwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T02:05:46.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Nave.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\Nave.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Nave.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\Nave.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Nave.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T23:33:53.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EliminarporTiempo.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\EliminarporTiempo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EliminarporTiempo.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\EliminarporTiempo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EliminarporTiempo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:10:15.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestruirporTiempo.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\DestruirporTiempo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DestruirporTiempo.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\DestruirporTiempo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DestruirporTiempo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T06:08:45.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\Jugador.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Jugador.cs",
+              "ToolTip": "D:\\Proyecto_Juegos\\ProyectoNave\\Assets\\Scripts\\Jugador.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Jugador.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T22:46:52.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
